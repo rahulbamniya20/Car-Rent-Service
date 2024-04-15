@@ -42,6 +42,16 @@ Start the server
   npm run start
 ```
 
+## Screenshots
+
+<img width="1434" alt="Screenshot 2024-04-15 at 8 37 40 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/002fdd57-1d37-4ae4-a898-02790df5fb44">
+<img width="1440" alt="Screenshot 2024-04-15 at 8 32 37 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/2601db3d-6420-4bbb-803f-5192b7db2040">
+<img width="1440" alt="Screenshot 2024-04-15 at 8 32 48 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/039b4729-099c-48f6-824e-b0826964d17c">
+<img width="1438" alt="Screenshot 2024-04-15 at 8 33 06 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/59ca79b2-058c-43f1-a550-8e767320700a">
+<img width="1440" alt="Screenshot 2024-04-15 at 8 33 25 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/82f8a398-1921-4189-acf8-7786fd742d66">
+<img width="1439" alt="Screenshot 2024-04-15 at 8 33 34 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/9c047432-bbd9-4621-8ad3-9c2030ce9c21">
+<img width="1440" alt="Screenshot 2024-04-15 at 8 33 45 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/e98c7daa-a0fc-4e8b-a3b2-5b92f829c721">
+
 
 ## Features
 
@@ -62,15 +72,7 @@ Start the server
 - **Personalized User Dashboard:** Manage your bookings, payments, and interactions with ease through a personalized dashboard designed for user convenience.
 
   
-## Screenshots
 
-<img width="1434" alt="Screenshot 2024-04-15 at 8 37 40 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/002fdd57-1d37-4ae4-a898-02790df5fb44">
-<img width="1440" alt="Screenshot 2024-04-15 at 8 32 37 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/2601db3d-6420-4bbb-803f-5192b7db2040">
-<img width="1440" alt="Screenshot 2024-04-15 at 8 32 48 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/039b4729-099c-48f6-824e-b0826964d17c">
-<img width="1438" alt="Screenshot 2024-04-15 at 8 33 06 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/59ca79b2-058c-43f1-a550-8e767320700a">
-<img width="1440" alt="Screenshot 2024-04-15 at 8 33 25 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/82f8a398-1921-4189-acf8-7786fd742d66">
-<img width="1439" alt="Screenshot 2024-04-15 at 8 33 34 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/9c047432-bbd9-4621-8ad3-9c2030ce9c21">
-<img width="1440" alt="Screenshot 2024-04-15 at 8 33 45 PM" src="https://github.com/rahulbamniya20/Car-Rent-Service/assets/110114539/e98c7daa-a0fc-4e8b-a3b2-5b92f829c721">
 
 
 
