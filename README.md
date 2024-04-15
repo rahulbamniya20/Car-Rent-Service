@@ -14,8 +14,8 @@ Rev up your digital experience with our Car Rent Service, where convenience meet
 ## Demo
 
 <a href="https://car-rent-service.vercel.app/" target="_blank">Visit Here</a>
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 
-<a href="https://www.geeksforgeeks.org/" target="_blank">here</a>
 
 ## Installation
 
