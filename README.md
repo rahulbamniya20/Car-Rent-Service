@@ -13,9 +13,9 @@ Rev up your digital experience with our Car Rent Service, where convenience meet
 
 ## Demo
 
-<a href="https://car-rent-service.vercel.app/" target="_blank">Visit Here</a>
-</br>
-<a href="https://car-rent-service.vercel.app" target="_blank">Visit Here</a>
+
+<a href="https://car-rent-service.vercel.app" target="_blank" rel="noopener">Visit Here</a>
+
 
 
 
