@@ -12,8 +12,7 @@ Rev up your digital experience with our Car Rent Service, where convenience meet
 
 
 ## Demo
-
-https://car-rent-service.vercel.app/
+[Live](https://car-rent-service.vercel.app/)
 
 
 ## Installation
