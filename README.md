@@ -77,10 +77,6 @@ Start the server
 - **Personalized User Dashboard:** Manage your bookings, payments, and interactions with ease through a personalized dashboard designed for user convenience.
 
   
-
-
-
-
 ## Tech Stack
 
 ⚛️ **React** - for building the user interface.
@@ -101,9 +97,6 @@ Start the server
 ## FAQ
 
 #### Q: How do I start using the Car Rent Service?
-
-
-
 **A:** To start using the service, simply register an account on our platform, browse the available cars, and proceed with the booking process.
 
 #### Q: What payment methods are supported?
@@ -125,6 +118,7 @@ Start the server
 #### Q: Can I rent a car in one city and return it in another?
 
 **A:**  Yes, our service supports one-way rentals. You can pick up a car in one city and return it in another as per the available options on our platform.
+
 
 
 ## Feedback
