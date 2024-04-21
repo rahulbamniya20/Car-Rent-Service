@@ -29,11 +29,11 @@ const About = () => {
                             </h2>
 
                             <p className='section__description'>
-                                Our Service is to provide everyone a safe ride to their destinations. All our Drivers are well skilled and professionals as well as our Car Conditions are also very Good. We want to provide the Best Car Rental Service in all over Bangladesh. Customers Satisfaction is our main Aim.
+                                Our Service is to provide everyone with a safe ride to their destinations. All our Drivers are well skilled and professional as well as our Car Conditions are also very Good. We want to provide the Best Car Rental Service in all of India. Customer satisfaction is our main Aim.
                             </p>
 
                             <p className='section__description'>
-                              This Is our Responsibility To Give You the Satisfaction of Riding with our Car. You may Book our Cars any time 24/7 to go anywhere in Bangladesh. we have many different cars and drivers ready to be in your service.
+                              This Is our Responsibility To Give You the Satisfaction of Riding with our Car. You may Book our Cars any time 24/7 to go anywhere in India. we have many different cars and drivers ready to be in your service.
                             </p>
 
                             <div className='d-flex align-items-center gap-3 mt-4' >
