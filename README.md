@@ -117,7 +117,7 @@ Start the server
 
 #### Q: Can I rent a car in one city and return it in another?
 
-**A:**  Yes, our service supports one-way rentals. You can pick up a car in one city and return it in another as per the available options on our platform.
+**A:**  Yes, Our service supports one-way rentals. You can pick up a car in one city and return it in another as per the available options on our platform.
 
 
 
