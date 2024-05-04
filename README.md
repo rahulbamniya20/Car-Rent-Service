@@ -107,7 +107,7 @@ Start the server
 **A:**  Yes, we offer a flexible cancellation policy. You can cancel your booking up to 24 hours before your rental period starts for a full refund.
 #### Q: How can I contact customer support?
 
-**A:**  For any assistance, you can contact our customer support through the help section on our website. Support is available 24/7.
+**A:**  For any assistance, you can contact our customer support through the help section on our website. Support is available 24*7.
 #### Q: Are there any discounts for long-term rentals?
 
 **A:**  Yes, we offer discounts for long-term rentals. Please contact us for more details on extended rental agreements.
