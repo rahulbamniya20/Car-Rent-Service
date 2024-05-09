@@ -1,4 +1,4 @@
-<!--This is Version 1.0-->
+<!--This is version 1.0-->
 # Car Rent Service
 
 Rev up your digital experience with our Car Rent Service, where convenience meets efficiency, all hosted on the cutting-edge platform of Vercel. Discover a seamless way to rent cars with just a few clicks, empowering your journeys with speed and simplicity, anytime, anywhere.
