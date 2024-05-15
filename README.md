@@ -97,7 +97,7 @@ Start the server
 ## FAQ
 
 #### Q: How do I start using the Car Rent Service?
-**A:** To start using the service, simply register an account on our platform, browse the available cars, and proceed with the booking process.
+**A:** To use the service, simply register an account on our platform, browse the available cars, and proceed with the booking process.
 
 #### Q: What payment methods are supported?
 **A:**  We accept various payment methods including credit cards, PayPal, and direct bank transfers.
