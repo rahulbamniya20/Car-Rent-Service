@@ -70,7 +70,7 @@ Start the server
 
 - **Competitive Pricing and Offers:** Enjoy competitive pricing along with special offers and discounts, making rentals affordable for a wide range of budgets.
 
-- **Secure Payment Gateway:** Utilize a secure payment system that protects your financial information and ensures a smooth transaction process.
+<!-- **Secure Payment Gateway:** Utilize a secure payment system that protects your financial information and ensures a smooth transaction process.-->
 
 - **Responsive Customer Support:** Access responsive and helpful customer support to resolve any queries or issues, enhancing your overall rental experience.
 
