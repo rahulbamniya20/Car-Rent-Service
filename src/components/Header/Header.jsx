@@ -38,7 +38,7 @@ const Header = () => {
 
     return <header className="header">
 
-    {/* {==========/Header Top\===============} */}
+    {/* {==========/Header Top Row\===============} */}
 
     <div className="header__top">
         <Container>
